@@ -12,12 +12,28 @@ int main () {
     };
 
     Student students[5] = { //create arrays of the struct
-        {24006152, "Eavan", "CS", 20},
-        {24006979, "John", "IT", 21},
-        {24007867, "Ali", "IS", 22},
-        {24007878, "Chua", "CS",20},
-        {24003456, "Jessy", "PE", 22}
+        // {24006152, "Eavan", "CS", 20},
+        // {24006979, "John", "IT", 21},
+        // {24007867, "Ali", "IS", 22},
+        // {24007878, "Chua", "CS",20},
+        // {24003456, "Jessy", "PE", 22}
     };
+
+    cout << "Input\n\n";
+    for (int i = 0; i < 5; i++){
+        cout << "Student " << i+1 << "\n";
+        cout << "ID: ";
+        cin >> students[i].id;
+        cin.ignore();
+        cout << "Name: ";
+        getline(cin, students[i].name);
+        cout << "Course: ";
+        getline(cin, students[i].course);
+        cout << "Age: ";
+        cin >> students[i].age;
+        cin.ignore();
+        cout << "\n";
+    }
 
     // display the students
     cout << "All Students\n\n";
