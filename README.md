@@ -3,7 +3,7 @@
 
 | Date | Lab Tasks |
 |------|-----------|
-| 2026/05/29 | Task 01 - [Students](https://github.com/eavan127/ADS_TEB1113/tree/main/2026_05_29-Task1) |
+| 2026/05/29 | Task 01 - [Students](https://github.com/eavan127/ADS_TEB1113/blob/main/2026_05_29-Task1/task_1.cpp) |
 | 2026/06/05 | Task 01 - [Easy-Rotated Matrix](https://github.com/eavan127/ADS_TEB1113/blob/main/2026_06_05-Task2/task1.cpp) |
 |            | Task 02 - |
 |            | Task 03 - |
