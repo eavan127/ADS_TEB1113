@@ -166,7 +166,7 @@ int main() {
     list.display();
 
     // insert Jane at the end
-    cout << "\\nAfter inserting Jane at the end:" << endl;
+    cout << "\nAfter inserting Jane at the end:" << endl;
     list.insertEnd("Jane");
     list.display();    
 
