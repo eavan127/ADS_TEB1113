@@ -14,7 +14,7 @@
 |            | Task 02 - [Stack-Array](https://github.com/eavan127/ADS_TEB1113/blob/main/2026_06_26-Task5/stack_array.cpp) |
 |            | Task 03 - [Queue-Linked List](https://github.com/eavan127/ADS_TEB1113/blob/main/2026_06_26-Task5/queue_linkedlist.cpp) |
 |            | Task 04 - [Queue-Array](https://github.com/eavan127/ADS_TEB1113/blob/main/2026_06_26-Task5/queue_array.cpp) |
-| 2026/07/03 | |
+| 2026/07/03 | Task 06 - [Binary Search Tree-Tree](https://github.com/eavan127/ADS_TEB1113/blob/main/2026_07_03_Task6/binarysearch_tree.cpp)|
 | 2026/07/10 | |
 | 2026/07/17 | |
 | 2026/07/24 | |
