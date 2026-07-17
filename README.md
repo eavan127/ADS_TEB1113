@@ -20,5 +20,3 @@
 |            | Task 02 - [Selection_sort](https://github.com/eavan127/ADS_TEB1113/blob/main/2026_07_17-Task8/selection_sort.cpp) |
 |            | Task 03 - [Insertion_sort](https://github.com/eavan127/ADS_TEB1113/blob/main/2026_07_17-Task8/insertion_sort.cpp) |
 |            | Task 04 - [Quick_sort](https://github.com/eavan127/ADS_TEB1113/blob/main/2026_07_17-Task8/quick_sort.cpp) |
-| 2026/07/24 | |
-| 2026/07/31 | |
