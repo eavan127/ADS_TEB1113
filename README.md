@@ -16,6 +16,9 @@
 |            | Task 04 - [Queue-Array](https://github.com/eavan127/ADS_TEB1113/blob/main/2026_06_26-Task5/queue_array.cpp) |
 | 2026/07/03 | Task 01 - [Binary Search Tree-Tree](https://github.com/eavan127/ADS_TEB1113/blob/main/2026_07_03_Task6/binarysearch_tree.cpp)|
 | 2026/07/10 | Task 01 - [Graph_LinkedList](https://github.com/eavan127/ADS_TEB1113/blob/main/2026_07_10_Task7/graph_linkedlist.cpp)|
-| 2026/07/17 | |
+| 2026/07/17 | Task 01 - [Bubble_sort](https://github.com/eavan127/ADS_TEB1113/blob/main/2026_07_17-Task8/bubble_sort.cpp) |
+|            | Task 02 - [Selection_sort](https://github.com/eavan127/ADS_TEB1113/blob/main/2026_07_17-Task8/selection_sort.cpp) |
+|            | Task 03 - [Insertion_sort](https://github.com/eavan127/ADS_TEB1113/blob/main/2026_07_17-Task8/insertion_sort.cpp) |
+|            | Task 04 - [Quick_sort](https://github.com/eavan127/ADS_TEB1113/blob/main/2026_07_17-Task8/quick_sort.cpp) |
 | 2026/07/24 | |
 | 2026/07/31 | |
